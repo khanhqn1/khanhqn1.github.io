@@ -1,6 +1,6 @@
 Hello! I'm Khanh Nguyen, graduated from the University of California, Berkeley majoring in Data Science. Right now I am working as a **Data Collections Engineer Intern** at a AI robotics start up, turning messy real-world sensor data into something models can actually learn from. At the same time, I’m enrolled in Berkeley’s **Master of Information and Data Science (MIDS)** program, continuing to sharpen my story telling capabilities.
 
-# Data science portfolio by Khanh Nguyen
+# Data Science Portfolio
 
 Welcome! This portfolio is a curated collection of my **Data Science / Machine Learning / Deep Learning** projects — from lightweight Python notebooks that demonstrate core concepts to fully **end-to-end demos** with data cleaning, modeling, evaluation, and deployment 🚀.
 

@@ -8,11 +8,13 @@ Welcome! This portfolio is a curated collection of my **Data Science / Machine L
 
 ### When $100k Could Buy a Home: California Housing Price Prediction 
 
-[Github](https://github.com/khanhqn1/californiahousepricing) | [View Notebook](https://khanhqn1.github.io/californiahousepricing/)
+[Github](https://github.com/khanhqn1/californiahousepricing) | [View Notebook](https://khanhqn1.github.io/californiahousepricing/) | Deployment
 
 This project is an end to end build of a linear regression model, focused on the full data science workflow. I set up a clean pipeline train, a baseline model to evaluate performance, clear metrics, and use residual plots to understand where the model performs well and where it does not. The goal is less about getting the best score and more about strengthening the data science workflow, including packaging the final model for deployment.
 
 ## Classification
+
+### Credit Card Fraud Detection
 
 #### 🚧 Under Construction 🚧
 New projects are on the way — I’m polishing this section and will be back soon! ✨👷‍♂️
@@ -27,11 +29,15 @@ This is a simple example of a feedfoward Neural Network in TensorFlow to predict
 
 ## Natural Language Processing
 
+### Sentiment Analysis
+
 ####  👷‍♀️✨ Building This Section
 I’m actively adding projects + write-ups here.  
 In the meantime, feel free to explore the other sections! 😊🔧
 
 ## Clustering
+
+### Customer Segmentation
 
 #### 🚀 Coming Soon!
 Still cooking… 🍳🔥  

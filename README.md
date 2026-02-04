@@ -19,9 +19,11 @@ New projects are on the way — I’m polishing this section and will be back so
 
 ## Neural Networks
 
-####  🛠️ Work in Progress!
-This section is currently under construction 🏗️  
-Check back soon — updates incoming 🚀🌱
+### Churn Modeling ANN
+
+Github | Notebook Viewer
+
+This is a simple example of a feedfoward Neural Network in TensorFlow to predict customer churn from tabular customer data. It covers the full workflow including preprocessing and encoding features scaling inputs training with early stopping and evaluating results with learning curves and a confusion matrix. The focus is on practicing a clean deep learning pipeline. The dataset is available [here](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data).
 
 ## Natural Language Processing
 

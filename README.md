@@ -8,7 +8,7 @@ Welcome! This portfolio is a curated collection of my **Data Science / Machine L
 
 ### When $100k Could Buy a Home: California Housing Price Prediction 
 
-[Github](https://github.com/khanhqn1/californiahousepricing) | [Notebook Viewer](https://khanhqn1.github.io/californiahousepricing/)
+[Github](https://github.com/khanhqn1/californiahousepricing) | [View Notebook](https://khanhqn1.github.io/californiahousepricing/)
 
 This project is an end to end build of a linear regression model, focused on the full data science workflow. I set up a clean pipeline train, a baseline model to evaluate performance, clear metrics, and use residual plots to understand where the model performs well and where it does not. The goal is less about getting the best score and more about strengthening the data science workflow, including packaging the final model for deployment.
 
@@ -21,7 +21,7 @@ New projects are on the way — I’m polishing this section and will be back so
 
 ### Churn Modeling ANN
 
-Github | Notebook Viewer
+[Github](https://github.com/khanhqn1/churnmodelingann) | [View Notebook](https://khanhqn1.github.io/churnmodelingann/)
 
 This is a simple example of a feedfoward Neural Network in TensorFlow to predict customer churn from tabular customer data. It covers the full workflow including preprocessing and encoding features scaling inputs training with early stopping and evaluating results with learning curves and a confusion matrix. The focus is on practicing a clean deep learning pipeline. The dataset is available [here](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data).
 

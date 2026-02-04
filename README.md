@@ -6,9 +6,9 @@ Welcome! This portfolio is a curated collection of my **Data Science / Machine L
 
 ## Regression
 
-### When $100k Could Buy a Home: California Housing Price Prediction
+### When $100k Could Buy a Home: California Housing Price Prediction 
 
-[Github](https://github.com/khanhqn1/californiahousepricing) [nbviewer](https://nbviewer.org/github/khanhqn1/californiahousepricing/blob/main/Linear_Regression_ML.ipynb)
+[Github](https://github.com/khanhqn1/californiahousepricing) **|** [Notebook Viewer](https://nbviewer.org/github/khanhqn1/californiahousepricing/blob/main/Linear_Regression_ML.ipynb)
 
 This project is an end to end build of a linear regression model, focused on the full data science workflow. I set up a clean pipeline train, a baseline model to evaluate performance, clear metrics, and use residual plots to understand where the model performs well and where it does not. The goal is less about getting the best score and more about strengthening the data science workflow, including packaging the final model for deployment.
 

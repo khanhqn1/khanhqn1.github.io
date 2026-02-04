@@ -2,7 +2,7 @@ Hello! I'm Khanh Nguyen, a Data Science graduate from the University of Californ
 
 # Data Science Portfolio
 
-Welcome! This portfolio is a curated collection of my **Data Science / Machine Learning / Deep Learning** projects — from lightweight Python notebooks that demonstrate core concepts to fully **end-to-end demos** with data cleaning, modeling and evaluation, and deployment 🚀.
+Welcome! This portfolio is a curated collection of my **Data Science / Machine Learning / Deep Learning** projects — from lightweight Python notebooks that demonstrate core concepts to fully **end-to-end demos** with data cleaning, modeling, and deployment 🚀.
 
 ## Regression
 

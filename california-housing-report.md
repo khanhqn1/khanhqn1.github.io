@@ -1,3 +1,9 @@
+---
+layout: default
+title: California Housing Project Report
+permalink: /california-housing-report/
+---
+
 # When $100k Could Buy a Home: California Housing Price Prediction
 
 **Author: Khanh Nguyen**  

@@ -1,4 +1,4 @@
-Hello! I'm Khanh Nguyen, a Data Science graduate from the University of California, Berkeley. Right now I am working as a **Data Collections Engineer Intern** at an AI robotics startup, turning messy real world sensor data into something models can actually learn from. At the same time, I’m enrolled in Berkeley’s **Master of Information and Data Science (MIDS)** program, continuing to sharpen my storytelling capabilities.
+Hello! I'm Khanh Nguyen, a Data Science graduate from the University of California, Berkeley. Right now I am working as a **AI Data Collections Engineer Intern** at RoboForce, an AI robotics startup, turning messy real world sensor data into something models can actually learn from. At the same time, I’m enrolled in Berkeley’s **Master of Information and Data Science (MIDS)** program, continuing to sharpen my storytelling capabilities.
 
 # Data Science Portfolio
 

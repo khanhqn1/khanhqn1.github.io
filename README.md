@@ -8,7 +8,7 @@ Welcome! This portfolio is a curated collection of my **Data Science / Machine L
 
 ### When $100k Could Buy a Home: California Housing Price Prediction 
 
-[Github](https://github.com/khanhqn1/californiahousepricing) | [View Notebook](https://khanhqn1.github.io/californiahousepricing/) | [Deployment](https://californiahousepricing-c6u8.onrender.com/)
+[View Report](https://khanhqn1.github.io/california-housing-report/) | [Github](https://github.com/khanhqn1/californiahousepricing) | [View Notebook](https://khanhqn1.github.io/californiahousepricing/) | [Deployment](https://californiahousepricing-c6u8.onrender.com/)
 
 This project is an end to end build of a linear regression model, focused on the full data science workflow. I set up a clean pipeline train, a baseline model to evaluate performance, clear metrics, and use residual plots to understand where the model performs well and where it does not. The goal is less about getting the best score and more about strengthening the data science workflow, including packaging the final model for deployment.
 
@@ -16,6 +16,6 @@ This project is an end to end build of a linear regression model, focused on the
 
 ### Churn Modeling ANN
 
-[Github](https://github.com/khanhqn1/churnmodelingann) | [View Notebook](https://khanhqn1.github.io/churnmodelingann/)
+[View Report](https://khanhqn1.github.io/customer-churn-report/) | [Github](https://github.com/khanhqn1/churnmodelingann) | [View Notebook](https://khanhqn1.github.io/churnmodelingann/)
 
 This is a simple example of a feedfoward Neural Network in TensorFlow to predict customer churn from tabular customer data. It covers the full workflow including preprocessing and encoding features scaling inputs training with early stopping and evaluating results with learning curves and a confusion matrix. The focus is on practicing a clean deep learning pipeline. The dataset is available [here](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data).
